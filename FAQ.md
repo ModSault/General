@@ -1,8 +1,8 @@
-#Frequently Asked Questions
+# Frequently Asked Questions
 
 These are questions I assume people will have about me, so why not get ahead of the game and answer them before they're asked. If you have other questions that aren't personal, shoot me a DM on Discord at ModSault#1203.
 
-##Table of Contents <br />
+## Table of Contents <br />
 1. [What are your experiences with the Star Fox Franchise?](#Num1) <br />
 2. [What are your scores as a kid in Star Fox Assault?](#Score1) <br />
 3. [What are your scores as a kid in Star Fox 64 3D?](#Score2) <br />
@@ -13,13 +13,13 @@ These are questions I assume people will have about me, so why not get ahead of 
 6. [How Often will you post/be online?](#Num6) <br />
 
 <a name="Num1">
-##What are your experiences with the Star Fox Franchise?
+## What are your experiences with the Star Fox Franchise?
   I grew up with the Nintendo GameCube being my first console. I only had about 13 games on there (that I still have) and one of them was Star Fox Adventures. I didn't read text as a kid so I never got past the part where you had to get the mushrooms to heal Tricky's mom and as a kid I never got farther than that. Many years later I played and beat the game and it was nice, although I don't remember much of the game outside of some setpiece moments and the test of fear. <br />
  I also had Star Fox Assault on the GameCube and while I don't remember what I thought of it back then, I'm pretty sure I liked the game a lot. This was also my first shooter so I haven't played one where aiming felt good yet. On top of that being able to enter/exit vehicles was something I always found cool. I even ended up getting the gold medal's on all the missions much later after a long struggle. I still have the scores supprisingly enough. <br />
   Fast forward to much later and I got a 3Ds and got Star Fox 64 3D as one of the three games I bought with it. As a kid I generally wasn't a fan of the on-rails Arwing levels and because Star Fox 64 is literally only that I disliked it a lot more than Star Fox Assault. Despite that I still played it quite a bit. <br />
 
 <a name="Score1">
-##What are your scores as a kid in Star Fox Assault?
+## What are your scores as a kid in Star Fox Assault?
 
 Gamemode | Score for Gold | My score
 :---: | :---: | :---:
@@ -59,7 +59,7 @@ Num | Total Score | Lives | Died? | Level 1 | Level 2 | Level 3 | Level 4 | Leve
 
 <b> Nintendo 64 Story Mode </b> <br />
 
-# | Total Score | Lives | Died? | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 | Level 7
+Num | Total Score | Lives | Died? | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 | Level 7
 :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 1 | 1290 | 15 | Yes | CO 165 PSF | ME 250 PSF | KA 139 | SO 64 | MA 163 PSF | A6 262 PSF | VE 227 SF
 2 | 1211 | 15 | Yes | CO 170 PSF | ME 229 PSF | FI 67 PSF | SX 183 PSF | MA 149 PSF | A6 207 PSF | VE 207 PS
@@ -101,21 +101,21 @@ Meteo (ME) | 150
 
 
 <a name="Num2">
-##Why mod Star Fox Assault?
+## Why mod Star Fox Assault?
 I was board on late February and decided to replay Star Fox Assault with the goal of getting all the gold medals again. I thought this would take like a few weeks, but it took like 5 days instead. The hardest part was not dying on mission 10, the gold medals were easy in comparison. I then optimized my scores to see what I could do and decided to put the game. After thinking that the April Fools prank I wanted to do would take too long (Maybe I'll do it down the line) given the time, I decided to instead look at the RAM of Star Fox Assault as a way to have more fun with the gmae.
 
 I did this expecting about a few more days of entertainment, but my first big discovery on March 14th, 2022, told me there was way more to it than having 99 lives. Days turned to weeks, and weeks turned to months of me doing it semi-frequently.  I ended up learning a lot about what's in RAM and how it's stored. Such as signed and unsigned variables, big and little endian, pointers, alignment, how floating point numbers are represented in Hex, and generally how Object-Oriented-Programming looks. I also learned more about Gecko Codes and just how powerful they are.
 
 <a name="Num3">
-##Why spend the time documenting what you found?
+## Why spend the time documenting what you found?
 The Star Fox Franchise is niche, so any information on how the game works could spark some excitment for fans. I also found some (very little) cut content that would also be cool to show off.
 
 <a name="Num4">
-##Should I DM you about x?
+## Should I DM you about x?
 As long as your mature, asking something appropriate, and will treat me like a person, go nuts. Keep in mind I won't be online often so expect responces after a days.
 
 <a name="Num5">
-##Why do you have an "x" account?
+## Why do you have an "x" account?
 
 * [Youtube](https://www.youtube.com/channel/UCjyil8Of_mwMQs46utIAmBw): For having my documentation as easily accessible and understandable as possible
 * [Twitch](https://www.twitch.tv/modsault): Potentially speaking with other streamers
@@ -124,7 +124,7 @@ As long as your mature, asking something appropriate, and will treat me like a p
 * [Reddit](https://www.reddit.com/user/ModSault): To announce my findings on r/starfox and possible contact someone
 
 <a name="Num6">
-##How Often will you post/be online?
+## How Often will you post/be online? 
 
 For posting it'll happen whenever I'm done. This can take months with school and way longer when school is in session. So be patient. <br />
 As for being online my discord account, whenever I feel like it.

@@ -41,13 +41,13 @@ Mission 10 | 1500 | 1614
 
 <a name="Score2">
 
-##What are your scores as a kid in Star Fox 64 3D?
+## What are your scores as a kid in Star Fox 64 3D?
 
 Keep in mind that I shared this game with others, and while I did play it the most, some scores might not be from me.
 
 ### <b> Nintendo 3DS Story Mode </b> <br />
 
-Num | Total Score | Lives | Died? | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 | Level 7
+Num | Score | Lives | Died? | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 | Level 7
 :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 1 | 1272 | 12 | No | CO 166 PSF | SY 156 PSF | AQ 134 PSF | ZO 231 PSF | SZ 86 PSF | A6 282 PSF | VE 227 PSF
 2 | 1160 | 13 | No | CO 142 PSF | ME 164 PSF | KA 75 PSF | SX 153 PSF | MA 169 PSF | A6 230 PSF | VE 227 PSF
@@ -62,7 +62,7 @@ Num | Total Score | Lives | Died? | Level 1 | Level 2 | Level 3 | Level 4 | Leve
 
 ### <b> Nintendo 64 Story Mode </b> <br />
 
-Num | Total Score | Lives | Died? | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 | Level 7
+Num | Score | Lives | Died? | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 | Level 7
 :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 1 | 1290 | 15 | Yes | CO 165 PSF | ME 250 PSF | KA 139 | SO 64 | MA 163 PSF | A6 262 PSF | VE 227 SF
 2 | 1211 | 15 | Yes | CO 170 PSF | ME 229 PSF | FI 67 PSF | SX 183 PSF | MA 149 PSF | A6 207 PSF | VE 207 PS

@@ -11,8 +11,9 @@ Here you find various sources I ran into as I was working on hacking Star Fox As
 6. [Dan Salvato's Resources for Melee Hacking](#Melee) <br />
 7. [Known Gecko Codes for Star Fox Assault](#Public) <br />
 8. [Star Fox Assault's Cutting Room Floor Page](#CRF) <br />
-9. [Wii Hacking Programs](#Wii) <br />
-10. [My Python Script](#Python) <br />
+9. [Other Star Fox Related Websites](#Websites)
+10. [Wii Hacking Programs](#Wii) <br />
+11. [My Python Script](#Python) <br />
 
 <a name="GCD"/>
 
@@ -72,6 +73,16 @@ Here you find various sources I ran into as I was working on hacking Star Fox As
 	* [Pre-release Details](https://tcrf.net/Prerelease:Star_Fox:_Assault)
 	* [The Discussion Page](https://tcrf.net/Talk:Star_Fox:_Assault)
 		* There is one, and only one post here, but he made some interesting discoveries. First off he found a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1QMK8pJs3ZgFFuoy5y4U-jFw3n6itYhUTZzhprZArSP8/edit#gid=0) of all the audio in the game. He also pointed to an [E3 Demo](https://www.youtube.com/watch?v=prnnf5XEYF4) of the game which I personally don't buy, but what would I know?
+
+<a name="Websites">
+
+## Other Star Fox Related Websites
+* [Krystal Archive](https://krystalarchive.com/) is a website of all things regarding Krystal and also links to other projects and websites Star Fox related
+* [Star Fox Online](https://www.starfox-online.net/) is a forum for all things Star Fox related. They even have a [Discord server](https://discord.gg/KjD8yxr)
+* [Arwingpedia](https://starfox.fandom.com/wiki/Main_Page) is more or less just wikipedia but for Star Fox only
+* The offical Star Fox [Reddit](https://www.reddit.com/r/starfox/) page
+* At [Lylat Systems](https://sfacorner.forumotion.net/) you have a site related to playing Star Fox Assault online through Dolphin Netplay
+
 
 <a name="Wii"/>
 

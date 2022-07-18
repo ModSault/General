@@ -10,26 +10,28 @@ Here you find various sources I ran into as I was working on hacking Star Fox As
 5. [Cheat Engine](#CE) <br />
 6. [Dan Salvato's Resources for Melee Hacking](#Melee) <br />
 7. [Known Gecko Codes for Star Fox Assault](#Public) <br />
-8. [Star Fox Assault's Cutting Room Floor Page](#CRF) <br />
-9. [Other Star Fox Related Websites](#Websites)
-10. [Wii Hacking Programs](#Wii) <br />
-11. [My Python Script](#Python) <br />
+8. [More PAL only AR Codes](#Ralf)
+9. [Star Fox Assault's Cutting Room Floor Page](#CRF) <br />
+10. [Ripped Star Fox Assault Models](#Ripped)
+11. [Other Star Fox Related Websites](#Websites)
+12. [Wii Hacking Programs](#Wii) <br />
+13. [My Python Script](#Python) <br />
 
-<a name="GCD"/>
+<a name="GCD">
 
 ## Gecko Code Documentation
 * [Here](http://wiigeckocodes.github.io/codetypedocumentation.html) is a half dead website that documents the code types for Gecko Codes in a clean fashion. <br />
 * [Here](https://gamehacking.org/faqs/wiicodetypes.html) is more or less the same thing but is written slightly differently and looks worse. <br />
 * [Here](https://smashboards.com/threads/guide-to-ar-and-gecko-code-writing-for-complete-noobs.336650/) is a link to a Smashboards page in which ResidentWaffle wrote down more code types comapred to the above to links, but doesn't explain how any of them work.
 
-<a name="GCWH"/>
+<a name="GCWH">
 
 ## Gecko Code Writing help
 * Dan Salvato made a [Youtube playlist](https://www.youtube.com/watch?v=IOyQhK2OCs0&list=PL6GfYYW69Pa2L8ZuT5lGrJoC8wOWvbIQv) which acts as an intro to Wii modding. I haven't watched the whole thing but it can most likely help someone. <br />
 * On a very well made website, Jimmie1717 made a [webiste](https://www.zeldacodes.org/gecko-to-lua) that converts Gecko Codes into Lua which can help out in understanding how certain code types work (assuming it's correct). <br />
 * Pyorot made a Gecko Code complier and posted it on [Github](https://github.com/Pyorot/gecko-compiler), but in my like 3 minute effort I was unable to get it to work. This could possibly help someone who could figure it out though.
 
-<a name="MCH"/>
+<a name="MCH">
 
 ## Machine Code Help
 * [Here](http://math-atlas.sourceforge.net/devel/assembly/ppc_isa.pdf) is a very large pdf of the PowerPC set architecture that I haven't read at all. <br />
@@ -37,7 +39,7 @@ Here you find various sources I ran into as I was working on hacking Star Fox As
 * There exists a [tool](https://code.google.com/archive/p/geckowii/downloads) that converts assembly into a Gecko Code which is very helpful if you use assembly in your gecko codes. <br />
 * IBM has [offical documentation](https://www.ibm.com/docs/en/aix/5.3?topic=aix-older-versions#c206690781jeff) of the commands for Machine Code and how it works.
 
-<a name="RTC"/>
+<a name="RTC">
 
 ## Real Time Corruptor
 * If you know of the first person Gecko Code for Star Fox Assault it was found by accident by Impromptunite using the [Real Time Corruptor](https://redscientist.com/rtc).
@@ -45,9 +47,12 @@ Here you find various sources I ran into as I was working on hacking Star Fox As
 	* Impromptunite also mentions, in great detail, how to set up the Gecko Code in Dolphin and an Offical Wii in his comment in the [Reddit post](https://www.reddit.com/r/starfox/comments/rjbbgt/i_found_an_unused_firstperson_mode_in_star_fox/).
 * You also have Vinesauce who used the tool in this [Youtube video](https://www.youtube.com/watch?v=9fi7yLT0mM0&t=262s) if you would like to see what the tool has to offer.
 
-<a name="CE"/>
+<a name="CE">
 
-## Cheat Engine
+## Cheat Engine <br />
+
+Huge shoutouts to Eric Heijnen (username: Darke Byte) for creating such an amazing program, otherwise I wouldn't be here right now.
+
 * There is a branch of Cheat Engine made by Aldelaro5 that is made specifically for Dolphin known as the [Dolphin Memory Engine](https://github.com/aldelaro5/Dolphin-memory-engine/releases)
 * You can also use the offical [Cheat Engine](https://www.cheatengine.org/) although I always found the website and installer very sketcky. So be VERY VERY CAREFUL when navigating their website and installer.
 	* Punkline on a [Smashboard post](https://smashboards.com/threads/using-cheat-engine-with-dolphin.442909/) explains how to use Cheat Engine with Dolphin. However he doesn't explain how to find the start of the game's memory so I'll do it here. Open Dolphin, right click the game, click "Info", and copy what is inside the "Game ID" box (SFA USA: GF7E01 ; SFA PAL: GF7P01 ; SFA Japan: GF7J01). After doing that search for the Game ID in Cheat Engine as ASCII and find the first memory address that ends with 4 zeros. That address will be the start of the game's memory.
@@ -65,7 +70,13 @@ Here you find various sources I ran into as I was working on hacking Star Fox As
 	* [Europe (PAL) version](https://gamehacking.org/game/54682)
 	* [Japan (NTSC-J) version](https://gamehacking.org/game/85479)
 
-<a name="CRF"/>
+<a name="Ralf">
+
+## More PAL only AR Codes <br />
+
+After asking [arronmunroe](https://www.youtube.com/watch?v=Gy76FPWRBoo&t=581s) on Youtube for where he got the widescreen hack he said it was on the Dolphin Forum. After looking more into it I found [another video](https://www.youtube.com/watch?v=2Me_Me7vugs&t=22s) where he linked to where he got the widescreen hack from and it was an older version of the [SFA dolphin wiki](https://wiki.dolphin-emu.org/index.php?title=Star_Fox%3A_Assault&oldid=124658#Enhancements) that has more information than the current version and also links to where it got the PAL widescreen code. That goes to a [forum](http://www.gc-forever.com/forums/viewtopic.php?f=38&t=1961) where Ralf made some insane AR codes for PAL version of the game.
+
+<a name="CRF">
 
 ## Star Fox Assault's Cutting Room Floor Page
 * Most games have a [Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) page that contains cut content and backstories to the avaiable games. I'll put the links for Star Fox Assault's page.
@@ -73,6 +84,12 @@ Here you find various sources I ran into as I was working on hacking Star Fox As
 	* [Pre-release Details](https://tcrf.net/Prerelease:Star_Fox:_Assault)
 	* [The Discussion Page](https://tcrf.net/Talk:Star_Fox:_Assault)
 		* There is one, and only one post here, but he made some interesting discoveries. First off he found a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1QMK8pJs3ZgFFuoy5y4U-jFw3n6itYhUTZzhprZArSP8/edit#gid=0) of all the audio in the game. He also pointed to an [E3 Demo](https://www.youtube.com/watch?v=prnnf5XEYF4) of the game which I personally don't buy, but what would I know?
+
+<a name="Ripped">
+
+## Ripped Star Fox Assault Models
+* Going [here](https://www.models-resource.com/gamecube/starfoxassault/) contains all known ripped models from Star Fox Assault
+* Using [Ninja Ripper](https://ninjaripper.com/) you can rip models yourself
 
 <a name="Websites">
 
